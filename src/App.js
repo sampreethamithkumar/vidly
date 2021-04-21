@@ -11,7 +11,6 @@ import RegisterForm from "./Component/registerForm";
 import MovieForm from "./Component/movieForm";
 import auth from "./services/authService";
 // import ProtectedRoute from "./Component/common/protectedRoute";
-import "react-toastify/dist/ReactToastify.css";
 import "./App.css";
 import Logout from "./Component/logout";
 
